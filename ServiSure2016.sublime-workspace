@@ -1,0 +1,1307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"te",
+				"text-transform: "
+			],
+			[
+				"servisure",
+				"servisure_theme"
+			],
+			[
+				"mar",
+				"margin-left: "
+			],
+			[
+				"border",
+				"border-right: "
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"ps",
+				"position: "
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"bac",
+				"background-color: "
+			],
+			[
+				"load",
+				"loadAddThis"
+			],
+			[
+				"ma",
+				"margin-bottom: "
+			],
+			[
+				"pa",
+				"padding-top: "
+			],
+			[
+				"margin",
+				"margin-top: "
+			],
+			[
+				"padd",
+				"padding-bottom: "
+			],
+			[
+				"fot",
+				"font-weight: "
+			],
+			[
+				"back",
+				"background-color: "
+			],
+			[
+				"o",
+				"opacity	Sass-function"
+			],
+			[
+				"gri",
+				"gridQuery"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"logo",
+				"logo-white"
+			],
+			[
+				"log",
+				"logo-white"
+			],
+			[
+				"tex",
+				"text-align: "
+			],
+			[
+				"g",
+				"gform-screen"
+			],
+			[
+				"backgr",
+				"background-color: "
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"text",
+				"text-transform: "
+			],
+			[
+				"font",
+				"font-weight: "
+			],
+			[
+				"reveal",
+				"revealId"
+			],
+			[
+				"rev",
+				"revealId"
+			],
+			[
+				"over",
+				"overflow-y: "
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"hea",
+				"heading-font-color"
+			],
+			[
+				"marg",
+				"margin-right: "
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"w",
+				"width: "
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"nav",
+				"navigation-font-family"
+			],
+			[
+				"footer",
+				"footer-nav"
+			],
+			[
+				"head",
+				"heading-font-family"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"he",
+				"heading-font-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"out",
+				"outline: "
+			],
+			[
+				"p",
+				"position: "
+			],
+			[
+				"word",
+				"word-spacing: "
+			],
+			[
+				"foin",
+				"font-family: "
+			],
+			[
+				"floer",
+				"flower-description"
+			],
+			[
+				"re",
+				"readyState"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"player",
+				"player1"
+			],
+			[
+				"pl",
+				"playerDetails"
+			],
+			[
+				"l",
+				"logDetails"
+			],
+			[
+				"date",
+				"dateVariable"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"reveres",
+				"reversedValues"
+			],
+			[
+				"play",
+				"playerone"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"strpos",
+				"strrpos"
+			],
+			[
+				"sear",
+				"searchterm"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"date_de",
+				"date_default_timezone_set"
+			],
+			[
+				"strto",
+				"strtoupper"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "docroot/themes/servisure_theme/scss/base/_common.scss",
+			"settings":
+			{
+				"buffer_size": 708,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docroot/themes/servisure_theme/scss/base/_functions.scss",
+			"settings":
+			{
+				"buffer_size": 3726,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docroot/themes/servisure_theme/scss/servisure_theme.scss",
+			"settings":
+			{
+				"buffer_size": 5199,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docroot/themes/servisure_theme/scss/base/_elements.scss",
+			"settings":
+			{
+				"buffer_size": 1561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docroot/themes/servisure_theme/scss/layout/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 101,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docroot/themes/servisure_theme/scss/layout/_main.scss",
+			"settings":
+			{
+				"buffer_size": 115,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docroot/themes/servisure_theme/servisure_theme.info.yml",
+			"settings":
+			{
+				"buffer_size": 1121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docroot/themes/servisure_theme/templates/menu--off-canvas.html.twig",
+			"settings":
+			{
+				"buffer_size": 1470,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docroot/themes/servisure_theme/templates/block--off-canvas.html.twig",
+			"settings":
+			{
+				"buffer_size": 287,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docroot/themes/servisure_theme/templates/html.html.twig",
+			"settings":
+			{
+				"buffer_size": 1942,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docroot/themes/servisure_theme/templates/page.html.twig",
+			"settings":
+			{
+				"buffer_size": 8106,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docroot/themes/servisure_theme/theme-settings.php",
+			"settings":
+			{
+				"buffer_size": 218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docroot/themes/servisure_theme/scss/layout/_sidebar_menu.scss",
+			"settings":
+			{
+				"buffer_size": 1287,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docroot/themes/servisure_theme/templates/breadcrumb.html.twig",
+			"settings":
+			{
+				"buffer_size": 672,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Packa",
+		"selected_items":
+		[
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/sites/servisure.dev.dd",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/config",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/config/install",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/css",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/scss",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/scss/base",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/scss/layout",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/scss/modules",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/scss/states",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/scss/theme",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/templates",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/zurb_foundation/scss",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/zurb_foundation/scss/foundation",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/zurb_foundation/scss/foundation/components",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/zurb_foundation/STARTER/scss",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/zurb_foundation/STARTER/scss/base",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/zurb_foundation/templates"
+	],
+	"file_history":
+	[
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/scss/base/_common.scss",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/scss/servisure_theme.scss",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/scss/base/_elements.scss",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/scss/base/_functions.scss",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/servisure_theme.info.yml",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/servisure_theme.libraries.yml",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/bower.json",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/Gruntfile.js",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/package.json",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/servisure_theme/scss/base/_init.scss",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/zurb_foundation/bower.json",
+		"/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot/themes/zurb_foundation/Gruntfile.js",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/modules/_navigation.scss",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-config.php",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/templates/_page-default.scss",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/templates/_blog-news.scss",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/assets/javascript/custom/global.js",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/plugins/gravityforms/js/gravityforms.js",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/single.php",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/templates/_products.scss",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/header.php",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/global/_settings.scss",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/foundation.scss",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/page-templates/product-list-page.php",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/library/foundation.php",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/page-templates/page-full-width.php",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/components/_squares.scss",
+		"/Volumes/Video/webserver/development/www/public/williamcollins2016/wp-content/themes/FoundationPress/library/navigation.php",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/modules/_navigation.scss",
+		"/Users/erikvecchione/web/Vagrantfile",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/modules/_footer.scss",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/javascript/custom/global.js",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/foundation.scss",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/global/_settings.scss",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/foundation.scss",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/library/navigation.php",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/library/foundation.php",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/gulpfile.js",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/components/_dropdown-menu.scss",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/templates/_page-default.scss",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/templates/_front.scss",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/page-templates/front.php",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/template-parts/mobile-off-canvas.php",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/template-parts/mobile-top-bar.php",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/components/_off-canvas.scss",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/page-templates/typography.php",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/footer.php",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/components/_icons.scss",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/header.php",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/twentyeleven/functions.php",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/.htaccess",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/settings/_settings.scss",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/javascript/custom/flex-video.js",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/javascript/custom/init-foundation.js",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/javascript/custom/stickyfooter.js",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/javascript/custom/joyride-demo.js",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/javascript/custom/offCanvas.js",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/scss/global/_palette.scss",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/library/menu-walkers.php",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-includes/theme-compat/footer-embed.php",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-includes/theme-compat/footer.php",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/components/foundation-sites/scss/components/_menu.scss",
+		"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/_top-bar.scss",
+		"/Users/erikvecchione/Downloads/icomoon (2)/style.css",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/scss/servisuretheme.scss",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/scss/icons.scss",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/scss/typography.scss",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/scss/pallette.scss",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/scss/settings.scss",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/templates/page.html.twig",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/package.json",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/Gruntfile.js",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/templates/html.html.twig",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/scss/foundation.scss",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/scss/layout/_menu.scss",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/scss/foundation/_settings.scss",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/scss/zurb_foundation.scss",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/scss/base/_init.scss",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/theme-settings.php",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/scss/styles.scss",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/servisuretheme.libraries.yml",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/servisuretheme.info.yml",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/templates/block--off-canvas.html.twig",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/templates/menu--off-canvas.html.twig",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/templates/block--system-menu-block.html.twig",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/templates/menu--main.html.twig",
+		"/web/Drupal/sites/servisure/sites/default/default.services.yml",
+		"/web/Drupal/sites/servisure/sites/default/settings.php",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/css/styles.css",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/scss/base/_common.scss",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/templates/foo.html.twig",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/bower.json",
+		"/web/Drupal/sites/servisure/themes/zurb_foundation/Gruntfile.js",
+		"/web/Drupal/sites/servisure/sites/default/settings.local.php",
+		"/web/Drupal/sites/servisure/sites/default/development.services.yml",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/inc/form.inc",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/inc/menu.inc",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/inc/theme.inc",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/inc/zurb_foundation.drush.inc",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/templates/page.left_off_canvas.html.twig",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/servisuretheme.theme",
+		"/web/Drupal/sites/servisure/themes/servisuretheme/inc/elements.inc",
+		"/web/Drupal/sites/servisure/themes/zurb_foundation/inc/menu.inc",
+		"/web/Drupal/sites/servisure/themes/custom/servisure/Gemfile",
+		"/web/Drupal/sites/servisure/themes/custom/servisure/favicon.ico",
+		"/Volumes/Video/Podcasts/March2016-Caster/March2016-Caster/Show Flyers/https:::www.facebook.com:events:960757500639181:pe",
+		"/Users/erikvecchione/Downloads/instagram/index.php",
+		"/Users/erikvecchione/Google Drive/Servi-Sure/2015/intake-notes-112415",
+		"/Users/erikvecchione/web/public_html/AJAX/Exercise Files/0102/start/ahah.html",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap13/Ajax/script.js",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap08/ShowHideSections/thanks.htm",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap08/ShowHideSections/contact.htm",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap08/ShowHideSections/script.js",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap09/ApplyingClasses/script.js",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap09/InlineStyles/script.js",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap13/Avoid/docWrite.htm",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap07/CommonErrors/script.js",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap07/UsingDebugger/script.js",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap06/ClickAndLoad/script.js",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap06/FocusAndBlur/script.js",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap06/Timers/script.js",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap06/Timers/mission.htm",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap05/CreatingDOM/script.js",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap01/script.js",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap05/AccessingDOM/script.js",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap05/ChangingDOM/script.js",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap02/scriptPosition.html",
+		"/Users/erikvecchione/web/public_html/javascript_tutorial/Exercise_Files/Chap01/simple.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/web/Drupal/sites/servisure/themes/servisuretheme",
+			"/Users/erikvecchione/web/public_html/williamcollins2016/wp-content/themes/FoundationPress/assets/scss",
+			"/web/Drupal/sites/servisure/",
+			"/web/Drupal/sites/servisure/themes/",
+			"/web/Drupal/sites/servisure/themes/servisuretheme/",
+			"/web/Drupal/sites/servisure/themes/servisuretheme/templates",
+			"/web/Drupal/sites/servisure/themes/servisuretheme/inc",
+			"/web/Drupal/sites/servisure/themes/custom/servisuretheme",
+			"/Users/erikvecchione/web/public_html/williamcollins/wp-content/themes/shoestrap-3",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"menu-tab",
+			"[/accordion]",
+			"\"]",
+			"[accordion title=\"",
+			"wc_accordion_section",
+			"the_excerpt",
+			"metadata",
+			"excerpt",
+			"spinner",
+			"icon-angle-right",
+			"' . $separator . ' ",
+			" ' . $separator . ' ",
+			"$seperator",
+			"logo",
+			"ease-in-out",
+			"$paragraph",
+			"../../fonts/",
+			"../fonts",
+			"email",
+			"left-off-canvas-menu",
+			"m-hxgn",
+			"my-icon",
+			"before",
+			");\n",
+			"#2199e8",
+			"$primary-color",
+			": $black",
+			"$black",
+			"menu__footer\n",
+			"}}\n",
+			"nav-bar",
+			"menu",
+			"main",
+			"zurb_foundation",
+			"servisuretheme_disable_base_js",
+			"zurb_foundation",
+			"local",
+			"topbar",
+			"top-bar",
+			"top_bar",
+			"menu",
+			"main",
+			"row-width",
+			"row",
+			"../../zurb_foundation/scss/",
+			"STARTER",
+			"This",
+			"Andy Metz\nAssassination Squad\nBack Alley Riot\nBeat the Smart Kids\nBeyond De-th\nBottle Kids\nBubbles Erotica\nButchered\nCaster\nDana Lawrence\nRun and Punch\nDitchwater\nJohn San Juan\nJohnny Automatic\nKalico Skies\nKilling gods\nLand Before Tim\nMakeshift Tragedy\nMenacerno\nOf Wolves\nOn My Six\nPavlov3\nPolarizer\nPredator\nSpinning Red\nThe Automatones\nThis Obsession",
+			"Obsession",
+			"Assassination Squad\nBack Alley Riot\nBeat the Smart Kids\nBeyond De-th\nBottle Kids\nBubbles Erotica\nButchered\nCaster\nDana Lawrence\nRun and Punch\nDitchwater\nJohn San Juan\nJohnny Automatic\nKalico Skies\nKilling gods\nLand Before Tim\nMakeshift Tragedy\nMenacerno\nOf Wolves\nOn My Six\nPavlov3\nPolarizer\nPredator\nSpinning Red\nThe Automatones\nThis Obsession",
+			"Andy",
+			"</p><div class=\"row-list-item\">",
+			"</figure>",
+			"<figure",
+			"class=\"tmblr-full\"",
+			"</p><div class=\"row-list-item\">",
+			"</figure>",
+			"<figure",
+			"class=\"tmblr-full\"",
+			">",
+			"</p><div",
+			"<figure class=\"tmblr-full\"",
+			"</p><div",
+			"<figure class=\"tmblr-full\"",
+			"</p></p>",
+			"/p></p>",
+			"</p></p>",
+			"<h2><b><br></b></h2>",
+			"div class=\"row-list-item\"",
+			"columndata",
+			"</p><div class=\"row-list-item\">",
+			"</figure>",
+			"<figure class=\"tmblr-full\" ",
+			"</p><div class=\"",
+			"<figure class=\"tmblr-full\"",
+			"*",
+			"mblr-full thumbnail-image left-column",
+			"</p></div>",
+			"</figure>",
+			"class=\"tmblr-full thumbnail-image left\"",
+			"class=\"tmblr-full thumbnail-image\"",
+			"class=\"tmblr-full\"",
+			"</p><div class=\"row-list-item\">",
+			"<figure",
+			" – ",
+			"–",
+			"#",
+			"figure class=\"tmblr-full\"",
+			"tumblr-full",
+			"style=“float:left; width:33%; margin: 0.5em; padding: 0.5em;",
+			"</p><div",
+			"<figure class=\"tmblr-full\"",
+			"&nbsp;",
+			",",
+			"	",
+			"%	",
+			"99",
+			"	",
+			"%",
+			"1	0%	0%	",
+			".0.",
+			"1",
+			"The",
+			"0.0	0.0	",
+			"1",
+			"0.0	0.0",
+			"1",
+			"4",
+			",",
+			"1",
+			"                     ",
+			"artist:",
+			"•	",
+			"case",
+			"');\n",
+			"	page open",
+			"	",
+			"$image",
+			"$quantity",
+			"$color",
+			"quantity",
+			"<?php",
+			"	",
+			"Ó",
+			"Ò",
+			"Õ",
+			"entry-summary",
+			"div.printfriendly"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			": $primary-color",
+			"$primary-color",
+			"servisuretheme",
+			"</p></div></div><div class=\"row-list-item\">",
+			"</figure><div class=\"right-column\">",
+			"<div class=\"row-list-item\"><figure",
+			"class=\"tmblr-full thumbnail-image-left-column\"",
+			"</p></div></div><div class=\"row-list-item\">",
+			"</figure><div class=\"right-column\">",
+			"<div class=\"row-list-item\"><figure",
+			"class=\"tmblr-full thumbnail-image-left-column\"",
+			"</p></div><div",
+			"<div class=\"grid-list-item\"><figure class=\"tmblr-full thumbnail-image\"",
+			"</p></div><div",
+			"<div class=\"grid-list-item\"><figure class=\"tmblr-full thumbnail-image\"",
+			"</p></div></div>",
+			"column\" data",
+			"</p></div></div><div class=\"row-list-item\">",
+			"</figure><div class=\"right-column\">",
+			"<div class=\"row-list-item\"><figure class=\"tmblr-full thumbnail-image-left-column",
+			"<figure class=\"tmblr-full\"  thumbnail-image-left-column",
+			"</div></p><div class=\"",
+			"<div class=\"grid-list-item\"><figure class=\"tmblr-full thumbnail-image\"",
+			"mblr-full thumbnail-image-left-column",
+			"</div></p></div>",
+			"</figure><div class=\"right-column\">",
+			"class=\"tmblr-full thumbnail-image left-column\"",
+			"class=\"tmblr-full thumbnail-image left\"",
+			"class=\"tmblr-full thumbnail-image\"",
+			"</p></div><div class=\"row-list-item\">",
+			"<div class=\"row-list-item\"><figure",
+			"figure class=\"tmblr-full thumbnail-image\"",
+			"tumblr-full thumbnail-image",
+			"class=\"grid-list-item\"",
+			"</p></div><div",
+			"<div style=“float:left; width:33%; margin: 0.5em; padding: 0.5em;”><figure class=\"tmblr-full\"",
+			"Angelo Etagere",
+			"Ubuntu, Arial, Helvetica, sans-serif",
+			"http",
+			"class=\"fa fa-",
+			"tlpchicago.org"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "/Volumes/Video/webserver/development/drupalDev/servisure-dev/docroot"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "docroot/themes/servisure_theme/scss/base/_common.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								708,
+								708
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "docroot/themes/servisure_theme/scss/base/_functions.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3524,
+								3524
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 20.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "docroot/themes/servisure_theme/scss/servisure_theme.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4997,
+								4997
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1956.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "docroot/themes/servisure_theme/scss/base/_elements.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								547,
+								547
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "docroot/themes/servisure_theme/scss/layout/_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "docroot/themes/servisure_theme/scss/layout/_main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "docroot/themes/servisure_theme/servisure_theme.info.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								700,
+								700
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "docroot/themes/servisure_theme/templates/menu--off-canvas.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								844,
+								844
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 273.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "docroot/themes/servisure_theme/templates/block--off-canvas.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "docroot/themes/servisure_theme/templates/html.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1062,
+								1062
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "docroot/themes/servisure_theme/templates/page.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3045,
+								3045
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1282.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "docroot/themes/servisure_theme/theme-settings.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "docroot/themes/servisure_theme/scss/layout/_sidebar_menu.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1149,
+								1149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1219.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "docroot/themes/servisure_theme/templates/breadcrumb.html.twig",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 440.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

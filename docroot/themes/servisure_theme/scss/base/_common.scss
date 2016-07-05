@@ -1,0 +1,24 @@
+// Common abstract classes to extend or parametrics are stored here.
+
+// Example parametrics.
+// ------------------------------------------------------
+%font-body-text   { font-family: 'PT Sans';}
+%font-caption	  { font-family: 'PT Sans Caption,'sans-serif; }
+%font-sans-serif { font-family: 'PT Sans', 'PT Sans Caption,'sans-serif; }
+
+%font-header-text,%font-navigation-bar { 
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700; 
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+//Color Palette
+
+$blue : #3e577b;
+$bronze: rgb(98,92,78);
+$accent-yellow: rgb(236,211,75);
+$background-gray: rgb(211,223,230);
+$dark-gray: #222;
+$dark-blue: shade($blue,75%);
+$menu-background: tint($background-gray, 50%);
